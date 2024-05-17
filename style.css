@@ -44,3 +44,12 @@ iframe{
     margin: auto;
     width: 30%;
 }
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
