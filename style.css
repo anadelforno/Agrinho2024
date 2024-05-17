@@ -50,6 +50,6 @@ footer{
 	background-color: #006400;
 	color: #F0FFFF;
 	text-align: center;
-	width: 80%;
+	max-height: 80%;
 
 }
