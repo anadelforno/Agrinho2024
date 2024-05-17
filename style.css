@@ -24,6 +24,11 @@ h3{
 	color: #90EE90 ;
 }
 
+p{
+	font-size: 36px;
+	font-family: Cambria;
+}
+
 body{
     font-size: 25px;
     background-color: #F0FFFF;
