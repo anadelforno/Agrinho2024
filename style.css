@@ -36,7 +36,7 @@ img{
     width: 45%;
     display: block;
     margin: auto;
-	background-image: none;
+	
     
 }
 
@@ -52,4 +52,7 @@ footer{
 
 
 
+}
+section {
+	background-image: url("https://www.solinftec.com/wp-content/uploads/2022/07/solinftec_solinftec_image_364-scaled-1-1080x675.jpeg");
 }
