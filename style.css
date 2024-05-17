@@ -29,6 +29,9 @@ p{
 	font-family: Cambria;
 }
 
+li{
+	font-size: 36px;
+}
 body{
     font-size: 25px;
     background-color: #F0FFFF;
