@@ -5,7 +5,7 @@
             padding: 0;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #90EE90;
             color: white;
             padding: 20px;
             text-align: center;
@@ -21,7 +21,7 @@
             margin: 0 10px;
         }
         nav a:hover {
-            color: #4CAF50;
+            color: #90EE90;
         }
         section {
             padding: 20px;
